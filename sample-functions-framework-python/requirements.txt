@@ -1,1 +1,7 @@
 functions-framework==1.4.3
+TensorFlowTTS==0.11
+gradio==1.4.3
+numpy==1.18.5
+SoundFile
+git+https://github.com/repodiac/german_transliterate
+tensorflow-cpu==2.3.1
